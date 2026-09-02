@@ -36,12 +36,12 @@
 
 Отдельные файлы в `notes/problems/`. В файле задачи: Формулировка и Ответ — каждый со своим переключателем ru/en; Resources. Длинный разбор — в атомах.
 
-- [[Problem 1.1]] — две функции ОС
-- [[Problem 1.3]] — time-sharing vs multiprogramming
-- [[Problem 1.8]] — video RAM / цена 1980
-- [[Problem 1.10]] — kernel vs user, зачем два режима
-- [[Problem 1.13]] — 2 CPU $\times$ 2 HT, три программы
-- [[Problem 1.15]] — average access time cache/RAM/disk
+- [[OS Problem 1.1]] — две функции ОС
+- [[OS Problem 1.3]] — time-sharing vs multiprogramming
+- [[OS Problem 1.8]] — video RAM / цена 1980
+- [[OS Problem 1.10]] — kernel vs user, зачем два режима
+- [[OS Problem 1.13]] — 2 CPU $\times$ 2 HT, три программы
+- [[OS Problem 1.15]] — average access time cache/RAM/disk
 
 Часть 2 туториала (придумать 3+2+1 задач однокурснику) — педагогика пары, не факты курса.
 
