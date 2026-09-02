@@ -1,0 +1,9 @@
+# Cursor IDE rules, skills, local env — keep on disk, not in the remote repo
+.cursor/
+
+# Local secrets — never publish (Moodle login, tokens, env)
+*.local.env
+.env
+.env.*
+**/.env
+**/*.local.env
